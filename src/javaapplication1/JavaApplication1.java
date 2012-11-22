@@ -15,5 +15,6 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         int znak1;
+        char znaki11;
     }
 }
