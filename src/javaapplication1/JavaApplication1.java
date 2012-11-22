@@ -16,11 +16,6 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         int znak1;
         char[] tabliza=new char[10];
-        int als;
-        char tsa;
-        
-        
-        
         
     }
 }
