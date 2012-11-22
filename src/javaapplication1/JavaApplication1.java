@@ -18,5 +18,9 @@ public class JavaApplication1 {
         char[] tabliza=new char[10];
         int als;
         char tsa;
+        
+        
+        
+        
     }
 }
